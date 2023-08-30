@@ -46,3 +46,10 @@
   font-weight: 700;
   font-size: 14px;
 }
+
+.errorMessage {
+color: red;
+justify-content: center;
+align-items: center;
+margin-top: 11px;
+}
